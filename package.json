@@ -1,0 +1,20 @@
+{
+  "name": "saucedemoauto",
+  "version": "1.0.0",
+  "description": "Automatización de sauce demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "qa",
+    "automation",
+    "sauce",
+    "Demo"
+  ],
+  "author": "David Vega Santamaria",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^9.5.3"
+  }
+}
